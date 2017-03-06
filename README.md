@@ -1,2 +1,2 @@
-# J-J-Hackathon
-Repository for any classes being used in the J&amp;J Hackathon
+# J&J Hackathon
+Repository for any classes being used in the Johnson and Johnson Hackathon
